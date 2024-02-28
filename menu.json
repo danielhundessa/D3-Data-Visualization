@@ -1,11 +1,11 @@
 [
     {
       "name": "veg soup",
-      "orders": 200
+      "orders": 700
     },
     {
       "name": "veg curry",
-      "orders": 600
+      "orders": 800
     },
     {
       "name": "veg pasta",
@@ -13,6 +13,6 @@
     },
     {
       "name": "veg surprise",
-      "orders": 900
+      "orders": 1000
     }
   ]
